@@ -1,0 +1,212 @@
+2013-12-22 22:42:28: 301: http://www.auto.ru/
+2013-12-22 22:42:28: 200: http://auto.ru/
+2013-12-22 22:42:29: 200: http://cars.auto.ru/
+2013-12-22 22:42:50: 200: http://cars.auto.ru/list/?category_id=15&section_id=1&year[1]=1998&currency_key=RUR&used_key=5&wheel_key=1&custom_key=1&available_key=1&stime=2&country_id=1&region[]=38&region_id=87&sort_by=1&output_format=1&client_id=1&_p=1
+2013-12-22 22:43:10: Получаем страницу http://cars.auto.ru/list/?category_id=15&section_id=1&year[1]=1998&currency_key=RUR&used_key=5&wheel_key=1&custom_key=1&available_key=1&stime=2&country_id=1&region[]=38&region_id=87&sort_by=1&output_format=1&client_id=1&_p=1
+2013-12-22 22:43:10: Новых объявлений найдено: 1434
+2013-12-22 22:43:10: 301: http://www.auto.ru/
+2013-12-22 22:43:11: 200: http://auto.ru/
+2013-12-22 22:43:11: 200: http://cars.auto.ru/
+2013-12-22 22:43:32: 200: http://cars.auto.ru/list/?category_id=15&section_id=1&year[1]=1998&currency_key=RUR&used_key=5&wheel_key=1&custom_key=1&available_key=1&stime=2&country_id=1&region[]=38&region_id=87&sort_by=1&output_format=1&client_id=1&_p=2
+2013-12-22 22:43:52: Получаем страницу http://cars.auto.ru/list/?category_id=15&section_id=1&year[1]=1998&currency_key=RUR&used_key=5&wheel_key=1&custom_key=1&available_key=1&stime=2&country_id=1&region[]=38&region_id=87&sort_by=1&output_format=1&client_id=1&_p=2
+2013-12-22 22:43:52: Новых объявлений найдено: 1434
+2013-12-22 22:43:53: 301: http://www.auto.ru/
+2013-12-22 22:43:53: 200: http://auto.ru/
+2013-12-22 22:43:54: 200: http://cars.auto.ru/
+2013-12-22 22:44:14: 200: http://cars.auto.ru/list/?category_id=15&section_id=1&year[1]=1998&currency_key=RUR&used_key=5&wheel_key=1&custom_key=1&available_key=1&stime=2&country_id=1&region[]=38&region_id=87&sort_by=1&output_format=1&client_id=1&_p=3
+2013-12-22 22:44:35: Получаем страницу http://cars.auto.ru/list/?category_id=15&section_id=1&year[1]=1998&currency_key=RUR&used_key=5&wheel_key=1&custom_key=1&available_key=1&stime=2&country_id=1&region[]=38&region_id=87&sort_by=1&output_format=1&client_id=1&_p=3
+2013-12-22 22:44:35: Новых объявлений найдено: 1434
+2013-12-22 22:44:35: 301: http://www.auto.ru/
+2013-12-22 22:44:35: 200: http://auto.ru/
+2013-12-22 22:44:36: 200: http://cars.auto.ru/
+2013-12-22 22:44:57: 200: http://cars.auto.ru/list/?category_id=15&section_id=1&year[1]=1998&currency_key=RUR&used_key=5&wheel_key=1&custom_key=1&available_key=1&stime=2&country_id=1&region[]=38&region_id=87&sort_by=1&output_format=1&client_id=1&_p=4
+2013-12-22 22:45:17: Получаем страницу http://cars.auto.ru/list/?category_id=15&section_id=1&year[1]=1998&currency_key=RUR&used_key=5&wheel_key=1&custom_key=1&available_key=1&stime=2&country_id=1&region[]=38&region_id=87&sort_by=1&output_format=1&client_id=1&_p=4
+2013-12-22 22:45:17: Новых объявлений найдено: 1434
+2013-12-22 22:45:17: 301: http://www.auto.ru/
+2013-12-22 22:45:18: 200: http://auto.ru/
+2013-12-22 22:45:18: 200: http://cars.auto.ru/
+2013-12-22 22:45:39: 200: http://cars.auto.ru/list/?category_id=15&section_id=1&year[1]=1998&currency_key=RUR&used_key=5&wheel_key=1&custom_key=1&available_key=1&stime=2&country_id=1&region[]=38&region_id=87&sort_by=1&output_format=1&client_id=1&_p=5
+2013-12-22 22:46:00: Получаем страницу http://cars.auto.ru/list/?category_id=15&section_id=1&year[1]=1998&currency_key=RUR&used_key=5&wheel_key=1&custom_key=1&available_key=1&stime=2&country_id=1&region[]=38&region_id=87&sort_by=1&output_format=1&client_id=1&_p=5
+2013-12-22 22:46:00: Новых объявлений найдено: 1435
+2013-12-22 22:46:00: 301: http://www.auto.ru/
+2013-12-22 22:46:00: 200: http://auto.ru/
+2013-12-22 22:46:01: 200: http://cars.auto.ru/
+2013-12-22 22:46:22: 200: http://cars.auto.ru/list/?category_id=15&section_id=1&year[1]=1998&currency_key=RUR&used_key=5&wheel_key=1&custom_key=1&available_key=1&stime=2&country_id=1&region[]=38&region_id=87&sort_by=1&output_format=1&client_id=1&_p=6
+2013-12-22 22:46:42: Получаем страницу http://cars.auto.ru/list/?category_id=15&section_id=1&year[1]=1998&currency_key=RUR&used_key=5&wheel_key=1&custom_key=1&available_key=1&stime=2&country_id=1&region[]=38&region_id=87&sort_by=1&output_format=1&client_id=1&_p=6
+2013-12-22 22:46:42: Новых объявлений найдено: 1433
+2013-12-22 22:46:42: 301: http://www.auto.ru/
+2013-12-22 22:46:43: 200: http://auto.ru/
+2013-12-22 22:46:43: 200: http://cars.auto.ru/
+2013-12-22 22:47:04: 200: http://cars.auto.ru/list/?category_id=15&section_id=1&year[1]=1998&currency_key=RUR&used_key=5&wheel_key=1&custom_key=1&available_key=1&stime=2&country_id=1&region[]=38&region_id=87&sort_by=1&output_format=1&client_id=1&_p=7
+2013-12-22 22:47:24: Получаем страницу http://cars.auto.ru/list/?category_id=15&section_id=1&year[1]=1998&currency_key=RUR&used_key=5&wheel_key=1&custom_key=1&available_key=1&stime=2&country_id=1&region[]=38&region_id=87&sort_by=1&output_format=1&client_id=1&_p=7
+2013-12-22 22:47:24: Новых объявлений найдено: 1436
+2013-12-22 22:47:25: 301: http://www.auto.ru/
+2013-12-22 22:47:25: 200: http://auto.ru/
+2013-12-22 22:47:25: 200: http://cars.auto.ru/
+2013-12-22 22:47:46: 200: http://cars.auto.ru/list/?category_id=15&section_id=1&year[1]=1998&currency_key=RUR&used_key=5&wheel_key=1&custom_key=1&available_key=1&stime=2&country_id=1&region[]=38&region_id=87&sort_by=1&output_format=1&client_id=1&_p=8
+2013-12-22 22:48:07: Получаем страницу http://cars.auto.ru/list/?category_id=15&section_id=1&year[1]=1998&currency_key=RUR&used_key=5&wheel_key=1&custom_key=1&available_key=1&stime=2&country_id=1&region[]=38&region_id=87&sort_by=1&output_format=1&client_id=1&_p=8
+2013-12-22 22:48:07: Новых объявлений найдено: 1436
+2013-12-22 22:48:07: 301: http://www.auto.ru/
+2013-12-22 22:48:07: 200: http://auto.ru/
+2013-12-22 22:48:08: 200: http://cars.auto.ru/
+2013-12-22 22:48:29: 200: http://cars.auto.ru/list/?category_id=15&section_id=1&year[1]=1998&currency_key=RUR&used_key=5&wheel_key=1&custom_key=1&available_key=1&stime=2&country_id=1&region[]=38&region_id=87&sort_by=1&output_format=1&client_id=1&_p=9
+2013-12-22 22:48:49: Получаем страницу http://cars.auto.ru/list/?category_id=15&section_id=1&year[1]=1998&currency_key=RUR&used_key=5&wheel_key=1&custom_key=1&available_key=1&stime=2&country_id=1&region[]=38&region_id=87&sort_by=1&output_format=1&client_id=1&_p=9
+2013-12-22 22:48:49: Новых объявлений найдено: 1436
+2013-12-22 22:48:49: 301: http://www.auto.ru/
+2013-12-22 22:48:50: 200: http://auto.ru/
+2013-12-22 22:48:50: 200: http://cars.auto.ru/
+2013-12-22 22:49:11: 200: http://cars.auto.ru/list/?category_id=15&section_id=1&year[1]=1998&currency_key=RUR&used_key=5&wheel_key=1&custom_key=1&available_key=1&stime=2&country_id=1&region[]=38&region_id=87&sort_by=1&output_format=1&client_id=1&_p=10
+2013-12-22 22:49:31: Получаем страницу http://cars.auto.ru/list/?category_id=15&section_id=1&year[1]=1998&currency_key=RUR&used_key=5&wheel_key=1&custom_key=1&available_key=1&stime=2&country_id=1&region[]=38&region_id=87&sort_by=1&output_format=1&client_id=1&_p=10
+2013-12-22 22:49:31: Новых объявлений найдено: 1437
+2013-12-22 22:49:32: 301: http://www.auto.ru/
+2013-12-22 22:49:32: 200: http://auto.ru/
+2013-12-22 22:49:32: 200: http://cars.auto.ru/
+2013-12-22 22:49:53: 200: http://cars.auto.ru/list/?category_id=15&section_id=1&year[1]=1998&currency_key=RUR&used_key=5&wheel_key=1&custom_key=1&available_key=1&stime=2&country_id=1&region[]=38&region_id=87&sort_by=1&output_format=1&client_id=1&_p=11
+2013-12-22 22:50:14: Получаем страницу http://cars.auto.ru/list/?category_id=15&section_id=1&year[1]=1998&currency_key=RUR&used_key=5&wheel_key=1&custom_key=1&available_key=1&stime=2&country_id=1&region[]=38&region_id=87&sort_by=1&output_format=1&client_id=1&_p=11
+2013-12-22 22:50:14: Новых объявлений найдено: 1437
+2013-12-22 22:50:14: 301: http://www.auto.ru/
+2013-12-22 22:50:14: 200: http://auto.ru/
+2013-12-22 22:50:15: 200: http://cars.auto.ru/
+2013-12-22 22:50:36: 200: http://cars.auto.ru/list/?category_id=15&section_id=1&year[1]=1998&currency_key=RUR&used_key=5&wheel_key=1&custom_key=1&available_key=1&stime=2&country_id=1&region[]=38&region_id=87&sort_by=1&output_format=1&client_id=1&_p=12
+2013-12-22 22:50:56: Получаем страницу http://cars.auto.ru/list/?category_id=15&section_id=1&year[1]=1998&currency_key=RUR&used_key=5&wheel_key=1&custom_key=1&available_key=1&stime=2&country_id=1&region[]=38&region_id=87&sort_by=1&output_format=1&client_id=1&_p=12
+2013-12-22 22:50:56: Новых объявлений найдено: 1437
+2013-12-22 22:50:57: 301: http://www.auto.ru/
+2013-12-22 22:50:57: 200: http://auto.ru/
+2013-12-22 22:50:57: 200: http://cars.auto.ru/
+2013-12-22 22:51:18: 200: http://cars.auto.ru/list/?category_id=15&section_id=1&year[1]=1998&currency_key=RUR&used_key=5&wheel_key=1&custom_key=1&available_key=1&stime=2&country_id=1&region[]=38&region_id=87&sort_by=1&output_format=1&client_id=1&_p=13
+2013-12-22 22:51:39: Получаем страницу http://cars.auto.ru/list/?category_id=15&section_id=1&year[1]=1998&currency_key=RUR&used_key=5&wheel_key=1&custom_key=1&available_key=1&stime=2&country_id=1&region[]=38&region_id=87&sort_by=1&output_format=1&client_id=1&_p=13
+2013-12-22 22:51:39: Новых объявлений найдено: 1432
+2013-12-22 22:51:39: 301: http://www.auto.ru/
+2013-12-22 22:51:39: 200: http://auto.ru/
+2013-12-22 22:51:40: 200: http://cars.auto.ru/
+2013-12-22 22:52:01: 200: http://cars.auto.ru/list/?category_id=15&section_id=1&year[1]=1998&currency_key=RUR&used_key=5&wheel_key=1&custom_key=1&available_key=1&stime=2&country_id=1&region[]=38&region_id=87&sort_by=1&output_format=1&client_id=1&_p=14
+2013-12-22 22:52:21: Получаем страницу http://cars.auto.ru/list/?category_id=15&section_id=1&year[1]=1998&currency_key=RUR&used_key=5&wheel_key=1&custom_key=1&available_key=1&stime=2&country_id=1&region[]=38&region_id=87&sort_by=1&output_format=1&client_id=1&_p=14
+2013-12-22 22:52:21: Новых объявлений найдено: 1434
+2013-12-22 22:52:21: 301: http://www.auto.ru/
+2013-12-22 22:52:22: 200: http://auto.ru/
+2013-12-22 22:52:22: 200: http://cars.auto.ru/
+2013-12-22 22:52:43: 200: http://cars.auto.ru/list/?category_id=15&section_id=1&year[1]=1998&currency_key=RUR&used_key=5&wheel_key=1&custom_key=1&available_key=1&stime=2&country_id=1&region[]=38&region_id=87&sort_by=1&output_format=1&client_id=1&_p=15
+2013-12-22 22:53:03: Получаем страницу http://cars.auto.ru/list/?category_id=15&section_id=1&year[1]=1998&currency_key=RUR&used_key=5&wheel_key=1&custom_key=1&available_key=1&stime=2&country_id=1&region[]=38&region_id=87&sort_by=1&output_format=1&client_id=1&_p=15
+2013-12-22 22:53:03: Новых объявлений найдено: 1434
+2013-12-22 22:53:04: 301: http://www.auto.ru/
+2013-12-22 22:53:04: 200: http://auto.ru/
+2013-12-22 22:53:05: 200: http://cars.auto.ru/
+2013-12-22 22:53:25: 200: http://cars.auto.ru/list/?category_id=15&section_id=1&year[1]=1998&currency_key=RUR&used_key=5&wheel_key=1&custom_key=1&available_key=1&stime=2&country_id=1&region[]=38&region_id=87&sort_by=1&output_format=1&client_id=1&_p=16
+2013-12-22 22:53:46: Получаем страницу http://cars.auto.ru/list/?category_id=15&section_id=1&year[1]=1998&currency_key=RUR&used_key=5&wheel_key=1&custom_key=1&available_key=1&stime=2&country_id=1&region[]=38&region_id=87&sort_by=1&output_format=1&client_id=1&_p=16
+2013-12-22 22:53:46: Новых объявлений найдено: 1435
+2013-12-22 22:53:46: 301: http://www.auto.ru/
+2013-12-22 22:53:46: 200: http://auto.ru/
+2013-12-22 22:53:47: 200: http://cars.auto.ru/
+2013-12-22 22:54:08: 200: http://cars.auto.ru/list/?category_id=15&section_id=1&year[1]=1998&currency_key=RUR&used_key=5&wheel_key=1&custom_key=1&available_key=1&stime=2&country_id=1&region[]=38&region_id=87&sort_by=1&output_format=1&client_id=1&_p=17
+2013-12-22 22:54:28: Получаем страницу http://cars.auto.ru/list/?category_id=15&section_id=1&year[1]=1998&currency_key=RUR&used_key=5&wheel_key=1&custom_key=1&available_key=1&stime=2&country_id=1&region[]=38&region_id=87&sort_by=1&output_format=1&client_id=1&_p=17
+2013-12-22 22:54:28: Новых объявлений найдено: 1441
+2013-12-22 22:54:28: 301: http://www.auto.ru/
+2013-12-22 22:54:29: 200: http://auto.ru/
+2013-12-22 22:54:29: 200: http://cars.auto.ru/
+2013-12-22 22:54:50: 200: http://cars.auto.ru/list/?category_id=15&section_id=1&year[1]=1998&currency_key=RUR&used_key=5&wheel_key=1&custom_key=1&available_key=1&stime=2&country_id=1&region[]=38&region_id=87&sort_by=1&output_format=1&client_id=1&_p=18
+2013-12-22 22:55:10: Получаем страницу http://cars.auto.ru/list/?category_id=15&section_id=1&year[1]=1998&currency_key=RUR&used_key=5&wheel_key=1&custom_key=1&available_key=1&stime=2&country_id=1&region[]=38&region_id=87&sort_by=1&output_format=1&client_id=1&_p=18
+2013-12-22 22:55:10: Новых объявлений найдено: 1441
+2013-12-22 22:55:11: 301: http://www.auto.ru/
+2013-12-22 22:55:11: 200: http://auto.ru/
+2013-12-22 22:55:12: 200: http://cars.auto.ru/
+2013-12-22 22:55:33: 200: http://cars.auto.ru/list/?category_id=15&section_id=1&year[1]=1998&currency_key=RUR&used_key=5&wheel_key=1&custom_key=1&available_key=1&stime=2&country_id=1&region[]=38&region_id=87&sort_by=1&output_format=1&client_id=1&_p=19
+2013-12-22 22:55:54: Получаем страницу http://cars.auto.ru/list/?category_id=15&section_id=1&year[1]=1998&currency_key=RUR&used_key=5&wheel_key=1&custom_key=1&available_key=1&stime=2&country_id=1&region[]=38&region_id=87&sort_by=1&output_format=1&client_id=1&_p=19
+2013-12-22 22:55:54: Новых объявлений найдено: 1441
+2013-12-22 22:55:54: 301: http://www.auto.ru/
+2013-12-22 22:55:54: 200: http://auto.ru/
+2013-12-22 22:55:55: 200: http://cars.auto.ru/
+2013-12-22 22:56:15: 200: http://cars.auto.ru/list/?category_id=15&section_id=1&year[1]=1998&currency_key=RUR&used_key=5&wheel_key=1&custom_key=1&available_key=1&stime=2&country_id=1&region[]=38&region_id=87&sort_by=1&output_format=1&client_id=1&_p=20
+2013-12-22 22:56:36: Получаем страницу http://cars.auto.ru/list/?category_id=15&section_id=1&year[1]=1998&currency_key=RUR&used_key=5&wheel_key=1&custom_key=1&available_key=1&stime=2&country_id=1&region[]=38&region_id=87&sort_by=1&output_format=1&client_id=1&_p=20
+2013-12-22 22:56:36: Новых объявлений найдено: 1441
+2013-12-22 22:56:37: 301: http://www.auto.ru/
+2013-12-22 22:56:37: 200: http://auto.ru/
+2013-12-22 22:56:37: 200: http://cars.auto.ru/
+2013-12-22 22:56:58: 200: http://cars.auto.ru/list/?category_id=15&section_id=1&year[1]=1998&currency_key=RUR&used_key=5&wheel_key=1&custom_key=1&available_key=1&stime=2&country_id=1&region[]=38&region_id=87&sort_by=1&output_format=1&client_id=1&_p=21
+2013-12-22 22:57:19: Получаем страницу http://cars.auto.ru/list/?category_id=15&section_id=1&year[1]=1998&currency_key=RUR&used_key=5&wheel_key=1&custom_key=1&available_key=1&stime=2&country_id=1&region[]=38&region_id=87&sort_by=1&output_format=1&client_id=1&_p=21
+2013-12-22 22:57:19: Новых объявлений найдено: 1439
+2013-12-22 22:57:19: 301: http://www.auto.ru/
+2013-12-22 22:57:20: 200: http://auto.ru/
+2013-12-22 22:57:20: 200: http://cars.auto.ru/
+2013-12-22 22:57:41: 200: http://cars.auto.ru/list/?category_id=15&section_id=1&year[1]=1998&currency_key=RUR&used_key=5&wheel_key=1&custom_key=1&available_key=1&stime=2&country_id=1&region[]=38&region_id=87&sort_by=1&output_format=1&client_id=1&_p=22
+2013-12-22 22:58:01: Получаем страницу http://cars.auto.ru/list/?category_id=15&section_id=1&year[1]=1998&currency_key=RUR&used_key=5&wheel_key=1&custom_key=1&available_key=1&stime=2&country_id=1&region[]=38&region_id=87&sort_by=1&output_format=1&client_id=1&_p=22
+2013-12-22 22:58:01: Новых объявлений найдено: 1439
+2013-12-22 22:58:02: 301: http://www.auto.ru/
+2013-12-22 22:58:02: 200: http://auto.ru/
+2013-12-22 22:58:02: 200: http://cars.auto.ru/
+2013-12-22 22:58:23: 200: http://cars.auto.ru/list/?category_id=15&section_id=1&year[1]=1998&currency_key=RUR&used_key=5&wheel_key=1&custom_key=1&available_key=1&stime=2&country_id=1&region[]=38&region_id=87&sort_by=1&output_format=1&client_id=1&_p=23
+2013-12-22 22:58:44: Получаем страницу http://cars.auto.ru/list/?category_id=15&section_id=1&year[1]=1998&currency_key=RUR&used_key=5&wheel_key=1&custom_key=1&available_key=1&stime=2&country_id=1&region[]=38&region_id=87&sort_by=1&output_format=1&client_id=1&_p=23
+2013-12-22 22:58:44: Новых объявлений найдено: 1440
+2013-12-22 22:58:44: 301: http://www.auto.ru/
+2013-12-22 22:58:44: 200: http://auto.ru/
+2013-12-22 22:58:45: 200: http://cars.auto.ru/
+2013-12-22 22:59:06: 200: http://cars.auto.ru/list/?category_id=15&section_id=1&year[1]=1998&currency_key=RUR&used_key=5&wheel_key=1&custom_key=1&available_key=1&stime=2&country_id=1&region[]=38&region_id=87&sort_by=1&output_format=1&client_id=1&_p=24
+2013-12-22 22:59:27: Получаем страницу http://cars.auto.ru/list/?category_id=15&section_id=1&year[1]=1998&currency_key=RUR&used_key=5&wheel_key=1&custom_key=1&available_key=1&stime=2&country_id=1&region[]=38&region_id=87&sort_by=1&output_format=1&client_id=1&_p=24
+2013-12-22 22:59:27: Новых объявлений найдено: 1442
+2013-12-22 22:59:27: 301: http://www.auto.ru/
+2013-12-22 22:59:28: 200: http://auto.ru/
+2013-12-22 22:59:29: 200: http://cars.auto.ru/
+2013-12-22 22:59:50: 200: http://cars.auto.ru/list/?category_id=15&section_id=1&year[1]=1998&currency_key=RUR&used_key=5&wheel_key=1&custom_key=1&available_key=1&stime=2&country_id=1&region[]=38&region_id=87&sort_by=1&output_format=1&client_id=1&_p=25
+2013-12-22 23:00:10: Получаем страницу http://cars.auto.ru/list/?category_id=15&section_id=1&year[1]=1998&currency_key=RUR&used_key=5&wheel_key=1&custom_key=1&available_key=1&stime=2&country_id=1&region[]=38&region_id=87&sort_by=1&output_format=1&client_id=1&_p=25
+2013-12-22 23:00:10: Новых объявлений найдено: 1442
+2013-12-22 23:00:11: 301: http://www.auto.ru/
+2013-12-22 23:00:11: 200: http://auto.ru/
+2013-12-22 23:00:11: 200: http://cars.auto.ru/
+2013-12-22 23:00:32: 200: http://cars.auto.ru/list/?category_id=15&section_id=1&year[1]=1998&currency_key=RUR&used_key=5&wheel_key=1&custom_key=1&available_key=1&stime=2&country_id=1&region[]=38&region_id=87&sort_by=1&output_format=1&client_id=1&_p=26
+2013-12-22 23:00:52: Получаем страницу http://cars.auto.ru/list/?category_id=15&section_id=1&year[1]=1998&currency_key=RUR&used_key=5&wheel_key=1&custom_key=1&available_key=1&stime=2&country_id=1&region[]=38&region_id=87&sort_by=1&output_format=1&client_id=1&_p=26
+2013-12-22 23:00:52: Новых объявлений найдено: 1443
+2013-12-22 23:00:53: 301: http://www.auto.ru/
+2013-12-22 23:00:53: 200: http://auto.ru/
+2013-12-22 23:00:54: 200: http://cars.auto.ru/
+2013-12-22 23:01:14: 200: http://cars.auto.ru/list/?category_id=15&section_id=1&year[1]=1998&currency_key=RUR&used_key=5&wheel_key=1&custom_key=1&available_key=1&stime=2&country_id=1&region[]=38&region_id=87&sort_by=1&output_format=1&client_id=1&_p=27
+2013-12-22 23:01:35: Получаем страницу http://cars.auto.ru/list/?category_id=15&section_id=1&year[1]=1998&currency_key=RUR&used_key=5&wheel_key=1&custom_key=1&available_key=1&stime=2&country_id=1&region[]=38&region_id=87&sort_by=1&output_format=1&client_id=1&_p=27
+2013-12-22 23:01:35: Новых объявлений найдено: 1443
+2013-12-22 23:01:35: 301: http://www.auto.ru/
+2013-12-22 23:01:35: 200: http://auto.ru/
+2013-12-22 23:01:36: 200: http://cars.auto.ru/
+2013-12-22 23:01:57: 200: http://cars.auto.ru/list/?category_id=15&section_id=1&year[1]=1998&currency_key=RUR&used_key=5&wheel_key=1&custom_key=1&available_key=1&stime=2&country_id=1&region[]=38&region_id=87&sort_by=1&output_format=1&client_id=1&_p=28
+2013-12-22 23:02:17: Получаем страницу http://cars.auto.ru/list/?category_id=15&section_id=1&year[1]=1998&currency_key=RUR&used_key=5&wheel_key=1&custom_key=1&available_key=1&stime=2&country_id=1&region[]=38&region_id=87&sort_by=1&output_format=1&client_id=1&_p=28
+2013-12-22 23:02:17: Новых объявлений найдено: 1443
+2013-12-22 23:02:17: 301: http://www.auto.ru/
+2013-12-22 23:02:18: 200: http://auto.ru/
+2013-12-22 23:02:19: 200: http://cars.auto.ru/
+2013-12-22 23:02:39: 200: http://cars.auto.ru/list/?category_id=15&section_id=1&year[1]=1998&currency_key=RUR&used_key=5&wheel_key=1&custom_key=1&available_key=1&stime=2&country_id=1&region[]=38&region_id=87&sort_by=1&output_format=1&client_id=1&_p=29
+2013-12-22 23:03:00: Получаем страницу http://cars.auto.ru/list/?category_id=15&section_id=1&year[1]=1998&currency_key=RUR&used_key=5&wheel_key=1&custom_key=1&available_key=1&stime=2&country_id=1&region[]=38&region_id=87&sort_by=1&output_format=1&client_id=1&_p=29
+2013-12-22 23:03:00: Новых объявлений найдено: 1444
+2013-12-22 23:03:00: Обработка файла анализа...
+2013-12-22 23:03:00: Найдена ссылка: 55671772-8ef9f
+2013-12-22 23:03:00: Найдена ссылка: 55835810-8958
+2013-12-22 23:03:00: Найдена ссылка: 55720178-772e
+2013-12-22 23:03:00: Найдена ссылка: 55989375-d629e
+2013-12-22 23:03:00: Найдена ссылка: 54971456-d2689
+2013-12-22 23:03:00: Найдена ссылка: 54971660-c48a
+2013-12-22 23:03:00: Найдена ссылка: 56050419-da8ed
+2013-12-22 23:03:00: Найдена ссылка: 56062093-708ae
+2013-12-22 23:03:00: Найдена ссылка: 56055639-6c3b
+2013-12-22 23:03:00: Найдена ссылка: 55667527-48dd63
+2013-12-22 23:03:00: Найдена ссылка: 52597866-e37b6
+2013-12-22 23:03:00: Найдена ссылка: 56061974-763f4f
+2013-12-22 23:03:00: Найдена ссылка: 53480223-6a94ae
+2013-12-22 23:03:00: Найдена ссылка: 56060039-c439
+2013-12-22 23:03:00: Найдена ссылка: 55653866-cb9eb8
+2013-12-22 23:03:00: Найдена ссылка: 54970886-548fa
+2013-12-22 23:03:00: Найдена ссылка: 55684021-c7f8
+2013-12-22 23:03:00: Найдена ссылка: 54821659-121a9
+2013-12-22 23:03:00: Найдена ссылка: 56053555-7a17
+2013-12-22 23:03:00: Найдена ссылка: 56028846-7b73
+2013-12-22 23:03:00: Найдена ссылка: 54663026-caa2
+2013-12-22 23:03:00: Найдена ссылка: 55709897-3dacfb
+2013-12-22 23:03:00: Найдена ссылка: 55753121-28a267
+2013-12-22 23:03:00: Найдена ссылка: 56060759-1b5d6
+2013-12-22 23:03:00: Сбор телефонных номеров для файла C:\Projects\OLD\Грабер_Auto_ru\Source XE3 copy\CSV\MOS_2013-12-222.txt
+2013-12-22 23:03:00: Страницы с телефонами
+2013-12-22 23:03:00: Страница:55671772-8ef9f
+2013-12-22 23:03:00: 301: http://www.auto.ru/
+2013-12-22 23:03:00: 200: http://auto.ru/
+2013-12-22 23:03:01: 200: http://cars.auto.ru/
+2013-12-22 23:03:21: 200: http://cars.auto.ru/cars/used/sale/55671772-8ef9f.html
+2013-12-22 23:03:42: 200: http://cars.auto.ru/?op=sale&act=getPhones&id=55671772-8ef9f
+2013-12-22 23:04:02: Получаем страницу http://cars.auto.ru/?op=sale&act=getPhones&id=55671772-8ef9f
+2013-12-22 23:04:02: {"result":true,"data":[{"phone":"+7 (926) 775-6771","time":" \u0441 09:00 \u0434\u043e 21:00"}]}
+2013-12-22 23:04:02: Ищем по маске (?<=phone\":\")(.*)(?=\",\"time)
+2013-12-22 23:04:02: Найден телефон!+7 (926) 775-6771!
+2013-12-22 23:04:02: Ищем по маске \s+|\(|\)|-
